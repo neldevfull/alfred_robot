@@ -1,21 +1,12 @@
 ```shell
-
-
-       _     ___    __                     ___ ________            ___
-      dM.    `MM   69MM                    `MM `MMMMMMMb.           MM
-     ,MMb     MM  6M' `                     MM  MM    `Mb           MM                  /
-     d'YM.    MM _MM____  __   ____     ____MM  MM     MM   _____   MM____     _____   /M
-    ,P `Mb    MM MMMM`MM 6MM  6MMMMb   6MMMMMM  MM     MM  6MMMMMb  MMMMMMb   6MMMMMb /MMMMM
-    d'  YM.   MM  MM  MM69 " 6M'  `Mb 6M'  `MM  MM    .M9 6M'   `Mb MM'  `Mb 6M'   `Mb MM
-   ,P   `Mb   MM  MM  MM'    MM    MM MM    MM  MMMMMMM9' MM     MM MM    MM MM     MM MM
-   d'    YM.  MM  MM  MM     MMMMMMMM MM    MM  MM  \M\   MM     MM MM    MM MM     MM MM
-  ,MMMMMMMMb  MM  MM  MM     MM       MM    MM  MM   \M\  MM     MM MM    MM MM     MM MM
-  d'      YM. MM  MM  MM     YM    d9 YM.  ,MM  MM    \M\ YM.   ,M9 MM.  ,M9 YM.   ,M9 YM.  ,
-_dM_     _dMM_MM__MM__MM_     YMMMM9   YMMMMMM__MM_    \M\_YMMMMM9 _MYMMMM9   YMMMMM9   YMMM9
-
-
-
-
+       d8888 888  .d888                      888 8888888b.          888               888
+      d88888 888 d88P"                       888 888   Y88b         888               888
+     d88P888 888 888                         888 888    888         888               888
+    d88P 888 888 888888 888d888 .d88b.   .d88888 888   d88P .d88b.  88888b.   .d88b.  888888
+   d88P  888 888 888    888P"  d8P  Y8b d88" 888 8888888P" d88""88b 888 "88b d88""88b 888
+  d88P   888 888 888    888    88888888 888  888 888 T88b  888  888 888  888 888  888 888
+ d8888888888 888 888    888    Y8b.     Y88b 888 888  T88b Y88..88P 888 d88P Y88..88P Y88b.
+d88P     888 888 888    888     "Y8888   "Y88888 888   T88b "Y88P"  88888P"   "Y88P"   "Y888
 ```
 
 ###is your most elegant assistant tasks, written in Python and ready to help you fight crime in your virtual Gotham City
