@@ -1,4 +1,4 @@
-```shell
+"""
   ===========================================================================
 ||                                                                           ||
 ||          ___    ______              ______        __          __          ||
@@ -10,11 +10,12 @@
 ||                       VIRTUAL ASSISTANT TASKS                             ||
 ||                                                                           ||
   ===========================================================================
-```
+"""
 
-#is your most elegant assistant tasks, written in Python and ready to help you fight crime in your virtual Gotham City
-*Version: 0.0.1
-*Environment: GNU/Linux
+###is your most elegant assistant tasks, written in Python and ready to help you fight crime in your virtual Gotham City
+
+* Version: 0.0.1
+* Environment: GNU/Linux
 
 ##Performed tasks
 
