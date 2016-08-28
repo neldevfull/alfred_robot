@@ -1,4 +1,7 @@
 ```shell
+
+
+       _     ___    __                     ___ ________            ___
       dM.    `MM   69MM                    `MM `MMMMMMMb.           MM
      ,MMb     MM  6M' `                     MM  MM    `Mb           MM                  /
      d'YM.    MM _MM____  __   ____     ____MM  MM     MM   _____   MM____     _____   /M
@@ -9,6 +12,10 @@
   ,MMMMMMMMb  MM  MM  MM     MM       MM    MM  MM   \M\  MM     MM MM    MM MM     MM MM
   d'      YM. MM  MM  MM     YM    d9 YM.  ,MM  MM    \M\ YM.   ,M9 MM.  ,M9 YM.   ,M9 YM.  ,
 _dM_     _dMM_MM__MM__MM_     YMMMM9   YMMMMMM__MM_    \M\_YMMMMM9 _MYMMMM9   YMMMMM9   YMMM9
+
+
+
+
 ```
 
 ###is your most elegant assistant tasks, written in Python and ready to help you fight crime in your virtual Gotham City
